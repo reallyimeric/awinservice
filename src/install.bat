@@ -1,0 +1,1 @@
+sc create MemoryStatus binpath= *path\to\memorystatus.exe*
